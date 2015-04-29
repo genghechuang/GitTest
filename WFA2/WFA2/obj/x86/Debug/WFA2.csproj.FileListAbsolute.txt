@@ -1,0 +1,7 @@
+F:\GitText2\GitTest\WFA2\WFA2\bin\Debug\WFA2.exe
+F:\GitText2\GitTest\WFA2\WFA2\bin\Debug\WFA2.pdb
+F:\GitText2\GitTest\WFA2\WFA2\obj\x86\Debug\WFA2.Form1.resources
+F:\GitText2\GitTest\WFA2\WFA2\obj\x86\Debug\WFA2.Properties.Resources.resources
+F:\GitText2\GitTest\WFA2\WFA2\obj\x86\Debug\WFA2.csproj.GenerateResource.Cache
+F:\GitText2\GitTest\WFA2\WFA2\obj\x86\Debug\WFA2.exe
+F:\GitText2\GitTest\WFA2\WFA2\obj\x86\Debug\WFA2.pdb
